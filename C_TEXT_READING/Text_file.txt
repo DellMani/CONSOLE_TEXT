@@ -1,0 +1,1 @@
+This is a prototypie for Rainbow Schools, to can be store data in a text file and then be displayed on screen.
