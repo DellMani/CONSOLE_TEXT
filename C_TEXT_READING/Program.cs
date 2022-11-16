@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Data;
 using System.IO;
-using System.Linq;
+
 
 namespace C_TEXT_READING
 {
@@ -37,6 +37,8 @@ namespace C_TEXT_READING
             Console.WriteLine("Press enter to Exit");
             var Exit = Console.ReadLine();
         }
+
+
 
     }
 }
